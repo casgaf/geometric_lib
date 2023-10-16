@@ -1,5 +1,5 @@
 # Математические формулы
-## Area
+## диапазон
 - Circle: S = πR²
 - Rectangle: S = ab
 - Square: S = a²
